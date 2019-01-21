@@ -10,3 +10,6 @@
 * Nelle Varoquaux
 * Yiheng Hu
 * Pip Griffin
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
